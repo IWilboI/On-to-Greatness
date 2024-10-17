@@ -8,8 +8,8 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background-color: #868585;
-  color: #000;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 header {
@@ -38,6 +38,14 @@ nav ul li a {
 
 main {
   padding: 20px;
+}
+
+.App1 {
+  color: rgb(255, 255, 255)
+}
+
+.App2 { 
+  color: rgb(255, 255, 255)
 }
 
 section {
