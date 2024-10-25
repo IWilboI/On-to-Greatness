@@ -5,18 +5,18 @@ const projects = [
   {
     title: "Note Taker App",
     description: "App designed to allow user to jot down thoughts and tasks and allows them to be updated and deleted.",
-    image: "images/note-taker.png", // Update with actual image path
+    image: "images/note-taker.png", 
     deployedLink: "https://express-ticket-to-knowledge.onrender.com/",
-    repoLink: "https://github.com/yourusername/note-taker", // Update with actual repo link
+    repoLink: "https://github.com/yourusername/note-taker", 
   },
   {
     title: "Jack Black & Coke",
     description: "Just a little game of black jack.",
-    image: "images/jack-black-coke.png", // Update with actual image path
+    image: "images/jack-black-coke.png", 
     deployedLink: "https://cbaumgart004.github.io/jackBlacknCoke/",
-    repoLink: "https://github.com/yourusername/jack-black-coke", // Update with actual repo link
+    repoLink: "https://github.com/yourusername/jack-black-coke", 
   },
-  // Add more projects as needed
+
 ];
 
 const Portfolio = () => {
