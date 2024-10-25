@@ -13,7 +13,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    alert('Form submitted!'); // Replace with actual form submission logic
+    alert('Form submitted!'); 
   };
 
   return (
